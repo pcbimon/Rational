@@ -77,7 +77,7 @@ class Rational {
      */
     public boolean equals(Rational x) {
 
-        return numerator == x.numerator && denominator == x.denominator; // TODO: This needs to be modified.
+        return numerator == x.numerator && denominator == x.denominator;
     }
 
     /***
