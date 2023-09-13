@@ -95,7 +95,7 @@ class Rational {
         else if(currentObject > anotherObject){
             return 1;
         }
-        return -1; // TODO: this needs to be modified.
+        return 0; // TODO: this needs to be modified.
     }
 
     /***
